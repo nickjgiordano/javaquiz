@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GUI()
+comment1.params=frmName
+comment1.target=void\ getFrame(java.lang.String)
+comment2.params=lblName
+comment2.target=void\ getLabel(java.lang.String)
+comment3.params=btnName
+comment3.target=void\ getButton(java.lang.String)
+comment4.params=
+comment4.target=void\ setFrame()
+comment5.params=args
+comment5.target=void\ setQuestion(java.lang.String[])
+numComments=6
